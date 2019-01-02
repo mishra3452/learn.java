@@ -24,3 +24,60 @@ a7 f4 73 5a 1b 92 7d
 
 When the code is run by the user, it is processed by something called the **Java Virtual Machine (JVM).** The JVM is essentially an interpreter for the bytecode. It goes through the bytecode and runs it. There are different versions of the JVM that are compatible with each OS and can run the same code. There is virtually no difference for the end-user, but this makes it a lot easier for programmers doing software development.  
 
+## Installing the Java Development Kit  
+
+Before installing the Java Development Kit (JDK), you should probably know what it is. It is distributed by Oracle. It contains the core libraries and compiler required to develop Java. The JDK should not be confused with the JRE (Java Runtime Environment). The JRE is a JVM for running, as opposed to compiling, Java programs.  
+
+### Downloading and Installing  
+
+To download the JDK, go to http://www.oracle.com/technetwork/java/javase/downloads/index.html. Click on "JDK with NetBeans Bundle". Follow the instructions for downloading the JDK installation file.  
+
+**Windows:** If you are running Windows, simply run the executable file and follow the installation instructions.  
+
+**Unix, Solaris, or Linux:** For Linux and Unix, download the "jdk1 6.0" for Linux systems. Save the downloaded file in any drive. Once you have saved the file, extract it to a place that you can remember, by using Terminal or by double clicking on the file. When you have finished extracting the file, copy the JDK 1.6.0 folder and paste it in the usr/local(To paste to the usr/local directory, you have to be in root) so that every user can use the java files. You can delete the downloaded zip file so that it doesn't take up space on your drive.  
+
+**Macintosh:** The latest available JDK is automatically installed by the operating system. Because Java for Macintosh is developed and maintained by Apple, in coordination with Sun, the current version on the Macintosh may not be the current version that is available from Sun.  
+
+#### Note on Editions  
+
+The JDK comes in three editions :  
+
+  * **Java Standard Edition (JSE)** – This version is the basic platform for Java. The course will focus on this edition.  
+  * **Java Enterprise Edition (JEE)** – This edition is mainly for developing and running distributed multitier architecture Java applications, based largely on modular software components running on an application server. We will not be covering this version in the course.  
+  * **Java Micro Edition (JME)** – This edition is primarily for developing programs to run on consumer applicances, such as PDAs and cell phones.  
+
+### Configuring Variables  
+
+Before writing code, it is recommended that you set the Path variable on your system so you can compile your code more easily.  
+
+#### For Windows Users  
+
+  * From the Control Panel, double click "System" (System and Maintenance in Vista)  
+  * For Windows 7 or Vista, click on "System," "Advanced System Settings" on the left, and then on "Environment Variables."  
+  * For XP and 2000, click on the "Advanced" tab and click on "Environment Variables" For NT, click on the "Environment" tab.  
+  * Select the Path variable and click "Edit"  
+  * Add the path to the bin directory of where Java is installed on your hard drive. It should probably be: C:\Program Files\Java\jdk1.8.0_181\bin unless you changed it during installation.  
+  * Click OK  
+
+#### For Linux and UNIX  
+
+One way to set your path in Linux/Unix is to add a path export to your bash profile.
+
+  * In order to do this, first open your bash profile in a text editor. For example,
+  ```
+  pico ~/.bash_profile
+  ```  
+  * Then add this line:  
+  ```
+  export PATH=$PATH:/usr/local/jdk/bin
+  ```  
+Note that the path to the java directory "/usr/local/jdk/bin" may be different on your machine.  
+  * Restart your shell.  
+
+#### For Macintosh  
+
+Apple sets everything up for you. Sit back and relax.  
+
+The only drawback is that because Apple handles development and maintenance of Java on the Mac, there is usually a delay from the time that a new version is released by Sun and the time that the new version is released on the Mac. Also, getting the latest version sometimes requires an operating system upgrade.  
+
+Oh well, you can't have everything.   
