@@ -81,3 +81,24 @@ Apple sets everything up for you. Sit back and relax.
 The only drawback is that because Apple handles development and maintenance of Java on the Mac, there is usually a delay from the time that a new version is released by Sun and the time that the new version is released on the Mac. Also, getting the latest version sometimes requires an operating system upgrade.  
 
 Oh well, you can't have everything.   
+
+### Versions of Java  
+
+As of 20 March 2018, both Java 8 and 11 are officially supported. Major release versions of Java, along with their release dates:  
+
+  * JDK 1.0 (January 23, 1996)  
+  * JDK 1.1 (February 19, 1997)  
+  * J2SE 1.2 (December 8, 1998)  
+  * J2SE 1.3 (May 8, 2000)  
+  * J2SE 1.4 (February 6, 2002)  
+  * J2SE 5.0 (September 30, 2004)  
+  * Java SE 6 (December 11, 2006)  
+  * Java SE 7 (July 28, 2011)  
+  * Java SE 8 (March 18, 2014)  
+  * Java SE 9 (September 21, 2017)  
+  * Java SE 10 (March 20, 2018)  
+  * Java SE 11 (September 25, 2018)  
+
+### History of Java  
+
+Well, some of the history was given in the introductory section. But if you still want to know more about java then please [Click Here](https://en.wikipedia.org/wiki/Java_(programming_language)#History "Wikipedia - Java History")
