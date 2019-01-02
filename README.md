@@ -82,7 +82,7 @@ The only drawback is that because Apple handles development and maintenance of J
 
 Oh well, you can't have everything.   
 
-### Versions of Java  
+## Versions of Java  
 
 As of 20 March 2018, both Java 8 and 11 are officially supported. Major release versions of Java, along with their release dates:  
 
@@ -99,6 +99,16 @@ As of 20 March 2018, both Java 8 and 11 are officially supported. Major release 
   * Java SE 10 (March 20, 2018)  
   * Java SE 11 (September 25, 2018)  
 
-### History of Java  
+## History of Java  
 
-Well, some of the history was given in the introductory section. But if you still want to know more about java then please [Click Here](https://en.wikipedia.org/wiki/Java_(programming_language)#History "Wikipedia - Java History")
+Well, some of the history was given in the introductory section. But if you still want to know more about java then please [Click Here](https://en.wikipedia.org/wiki/Java_(programming_language)#History "Wikipedia - Java History")  
+
+## About the java series  
+
+Here in this series, we will try to gain the knowledge of java through some theory and examples related to that theory.  
+
+Each concept will be present in a new folder and each concept will have some README.md file that will give some thoery about that particular topic.  
+
+Along with the README.md file, there will be one or more .java file(s) that will help the learners to have a deep knowledge.  
+
+**Have a Look :** Contributions are always welcomed(it can be in form of giving more detailed examples, or improving the theory part or explaning the topics).
