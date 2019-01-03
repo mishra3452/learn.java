@@ -18,6 +18,8 @@ Below are the steps to follow to run a java program :
   java programName
   ```
 
+  **NOTE :** It is recommended to save the program file as that of the class having the main function.
+
 The detailed view of execution process iis shown below :    
 [IMAGE COURTESY : geeksforgeeks]
 
