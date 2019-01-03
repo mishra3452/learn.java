@@ -13,6 +13,11 @@ class HelloWorld{
     }
 }
 
+/*
+Save the above program as HelloWorld.java and then compile the program by using javac HelloWorld.java 
+and then run by java HelloWorld.
+*/
+
 /* 
 Output :
 
