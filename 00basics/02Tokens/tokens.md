@@ -36,5 +36,38 @@ There are three types of variables in Java:
 
 We will learn more about variables in detail.  
 
+### Literals  
+
+Any constant value which can be assigned to the variable is called as literal/constant.  
+
+```java
+// Here 100 is a constant/literal.
+int x = 100;
+```  
+
+Types of literals :  
+
+  * Numeric  
+  * Character  
+  * Reference  
+  * Boolean  
+
+### Operators  
+
+Java provides many types of operators which can be used according to the need. They are classified based on the functionality they provide. Some of the types are :  
+
+  * Arithmetic Operators  
+  * Unary Operators  
+  * Assignment Operator  
+  * Relational Operators  
+  * Logical Operators  
+  * Ternary Operator  
+  * Bitwise Operators  
+  * Shift Operators  
+  * Instance of operator  
+  * Precedence and Associativity  
+
+We will learn more about these in operator section.
+
 
 
