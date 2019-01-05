@@ -19,4 +19,12 @@ These are the data types whose variables can hold maximum 1 value at a time.
 | long | 8 bytes |  
 | char | 2 bytes |
 | float | 4 bytes |
-| double | 8 bytes |
+| double | 8 bytes |  
+
+All the above examples are examples of **Primitive Data Types**.  
+
+### Reference Data Types :  
+
+These are the data types whose variable can hold more than 1 value at a time.  
+
+Example : classes, interfaces, arrays, enum, etc.
