@@ -7,8 +7,8 @@ Name of memory location which can hold the data.
   * Variable name must start with alphabets or underscore or $, but can't start with digits.  
   * Keywords are not allowed as a variable name.  
   Example :   
-  int x; ( allowed )
-            int float; ( not allowed )
+  int x; ( allowed )  
+            int float; ( not allowed )  
             int float1; ( allowed )  
   * Space are not allowed in variable name.  
   Example :   
