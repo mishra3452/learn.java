@@ -9,3 +9,10 @@ class Example{
         System.out.println(x+y);
     }
 }
+/*
+Just like int  : nextInt() 
+for boolean    : nextBoolean()
+for float      : nextFloat()
+for String     : next()      (no space string)
+               : nextLine()  (with space string)
+*/
