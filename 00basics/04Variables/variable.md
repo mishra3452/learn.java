@@ -49,4 +49,6 @@ class Local{
         System.out.println(x); //error use int x = 10;
     }
 } 
-```
+```  
+
+NOTE : Static and Instance Variables will be discussed later.
