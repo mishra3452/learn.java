@@ -112,3 +112,9 @@ x+y = ThankYou
 a*b = 200  
 a/b = 2  
 a%b = 0  
+
+### 3. Equality Operator  
+
+==(equals to) and !=(not equals to)  
+
+Can be applied on every primitive data types also in boolean and objects. Return true if condition holds equality otherwise false.
