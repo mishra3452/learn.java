@@ -15,4 +15,4 @@ Java provides many types of operators which can be used according to the need. T
   * Conditional Operator  
   * new Operator  
 
-Note : IIN JAVA THERE IS **NO OPERATOR OVERLOADING** EXCEPT "+" OPERATOR  
+Note : IN JAVA THERE IS **NO OPERATOR OVERLOADING** EXCEPT "+" OPERATOR  
